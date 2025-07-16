@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07a8fc9d4882ca341a62f632904976fe, type: 3}
+  m_Name: Reaction 1
+  m_EditorClassIdentifier: 
+  dialogues:
+  - animeName: Annoyed
+    duration: 2
+    text: "\uD788\uC58F!? \uAC70, \uAC70\uAE30 \uB9CC\uC9C0\uBA74 \uAC04\uC9C0\uB7FD\uB2E8
+      \uB9D0\uC774\uC57C! \uC644\uC804 \uBCC0\uD0DC!!"

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07a8fc9d4882ca341a62f632904976fe, type: 3}
+  m_Name: Reaction
+  m_EditorClassIdentifier: 
+  dialogues:
+  - animeName: Shy
+    duration: 2
+    text: "\uBB50....\uBB50!! \uBE68\uB9AC \uB178\uB798\uB098 \uACE8\uB77C...\uBC14\uBCF4\uC57C.."

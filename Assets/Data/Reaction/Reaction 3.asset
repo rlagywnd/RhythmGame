@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07a8fc9d4882ca341a62f632904976fe, type: 3}
+  m_Name: Reaction 3
+  m_EditorClassIdentifier: 
+  dialogues:
+  - animeName: Ridisule
+    duration: 2.5
+    text: "\uADF8\uB7F4\uC904 \uC54C\uC558\uC5B4 \uB108\uAC00 \uADF8\uAC78 \uAE68\uACA0\uB2E4\uB2C8
+      \uBD88\uAC00\uB2A5\uD558\uC9C0"
+  - animeName: Annoyed
+    duration: 1.5
+    text: "\uBB50...\uBB50\uC57C! \uD45C\uC815\uC774 \uC65C\uADF8\uB798?"
+  - animeName: Shy
+    duration: 2.5
+    text: "\uBBF8...\uBBF8\uC548\uD574!! \uB180\uB824\uC11C...\uADF8\uB7EC\uB2C8\uAE4C...\uAE30\uC8FD\uC9C0
+      \uB9D0\uB77C\uACE0...."
